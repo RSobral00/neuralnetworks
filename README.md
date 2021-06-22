@@ -1,5 +1,5 @@
 # Neural Networks
-Projeto de Licenciatura em Engenharia Computacional - Universidade de Aveiro - Dfis - Rúben Sobral 
+Projeto de Licenciatura em Engenharia Computacional-Exploração De Otimização Em Redes Neuronais - Universidade de Aveiro - Dfis - Rúben Sobral 
 Redes Neuronais Mnist e Imdb, Projeto Licenciatura Engenharia Computacional
 Código retirado e adaptado de https://github.com/fchollet/deep-learning-with-python-notebooks/tree/master/first_edition
 Sistema operativo: Windows 10
